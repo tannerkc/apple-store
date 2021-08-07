@@ -1,0 +1,21 @@
+
+.main img{
+    position: absolute;
+    box-sizing: border-box;
+    margin-top: 10vh;
+    width: calc(100% - 15vw);
+    max-width: 100%;
+    z-index: -1;
+  }
+  
+  .iphone_intro{
+    position: absolute;
+    margin-top: 30vh;
+    margin-left: 40px;
+    width: 65vw;
+    font-size: 1.5em;
+  }
+  
+  .iphone_intro h1, .iphone_intro h2{
+    font-weight: 100;
+  }
