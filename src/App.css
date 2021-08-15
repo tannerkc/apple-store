@@ -30,3 +30,28 @@ button, .button{
   margin-top: 30px;
   cursor: pointer;
 }
+
+input{
+  outline: none;
+  border: none;
+  background-color: transparent;
+  padding: 10px 15px;
+  font-size: 15px;
+  width: 100%;
+}
+
+.productListing{
+  margin-top: 40px;
+  width: 60vw;
+  height: 60px;
+  background: white;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 10px;
+}
+
+.productListing img{
+  max-height: 100%;
+}

@@ -20,6 +20,9 @@ a{
     cursor: pointer;
     position: relative;
 }
+a:hover{
+    opacity: .7;
+}
 
 .cartCount{
     position: absolute;
